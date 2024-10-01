@@ -1,0 +1,22 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "alx-frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelMwai/alx-frontend-javascript.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Michael Mwai michaeldmwai@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelMwai/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/MichaelMwai/alx-frontend-javascript#readme"
+}
